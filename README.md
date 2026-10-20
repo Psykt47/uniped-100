@@ -20,7 +20,7 @@ Resources for when I took Uniped-100@uit 2026
 
 [A taxonomy for learning, teaching, and assessing: a revision of Bloom's. Taxonomy of Educational Objectives](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_proquest_reports_199579418)
 
-[A Guide to writing learning outcomes in higher education. The national teaching repository, sheffield hallam university](https://bibsys-c.primo.exlibrisgroup.com/permalink/47BIBSYS_UBTO/1ghh08/cdi_worldbank_documents_725861559549239200)
+[A Guide to writing learning outcomes in higher education. The national teaching repository, sheffield hallam university](https://shura.shu.ac.uk/32056/1/A%20Guide%20to%20Writing%20Learning%20Outcomes%20in%20Higher%20Education%20-%20NTR%20.pdf)
 
 
 ## Module 3 Teaching Methods
